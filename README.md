@@ -1,5 +1,8 @@
 ## Notes and Ideas
 
+Well so far I can see the potential in this site! Although I can't figure out how to create a separate page or post... There's always next week.
+
+### The Original GitHub Pages Help Text (still needed for newbies like myself)
 You can use the [editor on GitHub](https://github.com/johnbradley436/Notes-and-ideas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
