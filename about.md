@@ -4,7 +4,7 @@ I'm a person with advanced degrees who doesn't know much about creating websites
 
 Experimental post list
 <ul>
-  {% for post in site.master %}
+  {% for post in site.Notes-and-ideas %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
