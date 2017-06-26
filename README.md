@@ -2,6 +2,8 @@
 
 Well so far I can see the potential in this site! Although I can't figure out how to create a separate page or post... There's always next week.
 
+And now that it's next week, look what I can do: [Link to a new page of my own creation](https://johnbradley436.github.io/Notes-and-ideas/about.html)
+
 ### The Original GitHub Pages Help Text (still needed for newbies like myself)
 You can use the [editor on GitHub](https://github.com/johnbradley436/Notes-and-ideas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
