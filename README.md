@@ -4,6 +4,17 @@ Well so far I can see the potential in this site! Although I can't figure out ho
 
 And now that it's next week, look what I can do: [Link to a new page of my own creation](https://johnbradley436.github.io/Notes-and-ideas/about.html)
 
+## Here's a list of my posts
+### They may or may not actually exist
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
 ### The Original GitHub Pages Help Text (still needed for newbies like myself)
 You can use the [editor on GitHub](https://github.com/johnbradley436/Notes-and-ideas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -41,10 +52,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
