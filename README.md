@@ -16,7 +16,7 @@ They may or may not actually exist
   {% endfor %}
 </ul>
 
-Credits
-[Click here for my About page](https://johnbradley436.github.io/Notes-and-ideas/about.html)
+
+### [Click here for my About page](https://johnbradley436.github.io/Notes-and-ideas/about.html)
 
 [Link to GitHub Help Text](https://johnbradley436.github.io/Notes-and-ideas/Original-GitHub-Pages-Help-Text.html)
