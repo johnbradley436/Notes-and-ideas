@@ -1,0 +1,12 @@
+theme: jekyll-theme-midnight
+
+name: Notes and Ideas
+markdown: kramdown
+authors:
+  John:
+    name: John Bradley
+    display_name: John
+    email: johnbradley436@gmail.com
+    github: johnbradley436
+
+permalink: /Notes-and-ideas/:year/:month/:day/:title
